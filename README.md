@@ -39,11 +39,11 @@ class StrawHatDeveloper:
 
 ### 🔥 Logia-Type — Core Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,js,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,js,ts,rust&theme=dark)](https://skillicons.dev)
 
 ### 🛡️ Paramecia-Type — Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,bootstrap,vite&theme=dark)](https://skillicons.dev)
 
 ### 🦁 Zoan-Type — Data & Infrastructure
 
@@ -60,7 +60,7 @@ class StrawHatDeveloper:
 
 ### 🗡️ Weapons — Development Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
