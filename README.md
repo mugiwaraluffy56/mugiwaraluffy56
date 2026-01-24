@@ -2,13 +2,13 @@
 
 # 🏴‍☠️ Welcome to the Grand Line of Code! 🏴‍☠️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ahoy!+I'm+Puneet+Haditya!;AI%2FML+Explorer+%F0%9F%A7%AD;Future+Code+Pirate+King!+%F0%9F%91%91" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ahoy!+I'm+Puneeth+Aditya!;AI%2FML+Explorer+%F0%9F%A7%AD;Future+Code+Pirate+King!+%F0%9F%91%91" />
 
 <img src="https://i.pinimg.com/originals/95/4d/e3/954de32e0a51955de0186cb5bbb8c0cd.gif" width="300"/>
 
 *"I don't want to conquer anything. I just think the guy with the most code... is the KING!"*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=dc143c&style=for-the-badge&label=BOUNTY+HUNTERS)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=mugiwaraluffy56&color=dc143c&style=for-the-badge&label=BOUNTY+HUNTERS)](https://github.com/mugiwaraluffy56)
 
 </div>
 
@@ -19,7 +19,7 @@
 ```python
 class StrawHatDeveloper:
     def __init__(self):
-        self.name = "Puneet Haditya"
+        self.name = "Puneeth Aditya"
         self.role = "AI/ML Student & Aspiring Code Pirate"
         self.dream = "To find the One Piece... of Perfect Code!"
         self.crew = "Straw Hat Developers"
@@ -87,10 +87,10 @@ class StrawHatDeveloper:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=dc143c&icon_color=dc143c&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mugiwaraluffy56&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=dc143c&icon_color=dc143c&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mugiwaraluffy56&theme=radical&hide_border=true&background=0D1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=dc143c&text_color=FFFFFF" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugiwaraluffy56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=dc143c&text_color=FFFFFF" width="40%" />
 
 </div>
 
@@ -186,7 +186,7 @@ class StrawHatDeveloper:
 
 ### 📊 Contribution Graph - "The Crew's Journey"
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0D1117&color=dc143c&line=dc143c&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mugiwaraluffy56&theme=redical&hide_border=true&bg_color=0D1117&color=dc143c&line=dc143c&point=FFFFFF" width="100%"/>
 
 </div>
 
