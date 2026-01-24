@@ -38,29 +38,29 @@ class StrawHatDeveloper:
 <div align="center">
 
 ### 🔥 Logia-Type — Core Languages
-*The rarest and most powerful abilities*
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,js,rust&theme=dark)](https://skillicons.dev)
 
 ### 🛡️ Paramecia-Type — Web Development
-*Special abilities that reshape reality*
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark)](https://skillicons.dev)
 
 ### 🦁 Zoan-Type — Data & Infrastructure
-*The power of transformation*
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,docker,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,docker,linux,bash&theme=dark)](https://skillicons.dev)
 
-### 🧪 Haki — AI/ML Arsenal
-*The supreme power few can master*
+### 🧪 Haki — AI/ML & Data Science
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
 
-### 🗡️ Weapons — Development Tools
-*A pirate's trusted arsenal*
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark)](https://skillicons.dev)
+### 🗡️ Weapons — Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,neovim&theme=dark)](https://skillicons.dev)
 
 </div>
 
