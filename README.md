@@ -235,7 +235,7 @@ class StrawHatDeveloper:
 
 **Current Bounty: Always Increasing 📈**
 
-![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=mugiwaraluffy56&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)
 
 </div>
 
