@@ -37,27 +37,30 @@ class StrawHatDeveloper:
 
 <div align="center">
 
-### 🔥 Logia-Type (Core Languages)
+### 🔥 Logia-Type — Core Languages
+*The rarest and most powerful abilities*
 
-| Power | Mastery |
-|-------|---------|
-| ![Python](https://img.shields.io/badge/Python-Mera_Mera_no_Mi-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | 🔥🔥🔥🔥⚪ |
-| ![Go](https://img.shields.io/badge/Go-Gomu_Gomu_no_Mi-00ADD8?style=for-the-badge&logo=go&logoColor=white) | 🔥🔥🔥⚪⚪ |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Goro_Goro_no_Mi-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 🔥🔥🔥🔥⚪ |
+[![My Skills](https://skillicons.dev/icons?i=python,go,js&theme=dark)](https://skillicons.dev)
 
-### 🛡️ Paramecia-Type (Web Development)
+### 🛡️ Paramecia-Type — Web Development
+*Special abilities that reshape reality*
 
-| Power | Mastery |
-|-------|---------|
-| ![HTML5](https://img.shields.io/badge/HTML5-Bara_Bara_no_Mi-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 🔥🔥🔥🔥🔥 |
-| ![CSS3](https://img.shields.io/badge/CSS3-Hana_Hana_no_Mi-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 🔥🔥🔥🔥⚪ |
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark)](https://skillicons.dev)
 
-### 🦁 Zoan-Type (Data & Infrastructure)
+### 🦁 Zoan-Type — Data & Infrastructure
+*The power of transformation*
 
-| Power | Mastery |
-|-------|---------|
-| ![SQL](https://img.shields.io/badge/SQL-Hito_Hito_no_Mi-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | 🔥🔥🔥🔥⚪ |
-| ![Docker](https://img.shields.io/badge/Docker-Uo_Uo_no_Mi-2496ED?style=for-the-badge&logo=docker&logoColor=white) | 🔥🔥🔥⚪⚪ |
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,docker,linux&theme=dark)](https://skillicons.dev)
+
+### 🧪 Haki — AI/ML Arsenal
+*The supreme power few can master*
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
+
+### 🗡️ Weapons — Development Tools
+*A pirate's trusted arsenal*
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -91,34 +94,6 @@ class StrawHatDeveloper:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugiwaraluffy56&theme=radical&hide_border=true&background=0D1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugiwaraluffy56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=dc143c&text_color=FFFFFF" width="40%" />
-
-</div>
-
----
-
-## 🏴‍☠️ Straw Hat Arsenal (Tools & Technologies)
-
-<div align="center">
-
-### 🗡️ Weapons (Development Tools)
-
-![Git](https://img.shields.io/badge/Git-Shusui-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Wado_Ichimonji-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Enma-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-Clima_Tact-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🧪 Haki Training (AI/ML)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Observation_Haki-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Armament_Haki-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Conqueror's_Haki-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Ryuo-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🚢 Ships (Frameworks & Platforms)
-
-![React](https://img.shields.io/badge/React-Thousand_Sunny-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Going_Merry-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Mini_Merry-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
 
