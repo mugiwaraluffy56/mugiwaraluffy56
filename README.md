@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🗺️ Captain's Log
 
@@ -31,7 +31,7 @@ class StrawHatDeveloper:
         return "A developer's dream... NEVER DIES!"
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## ⚔️ Devil Fruit Powers (Tech Stack)
 
@@ -64,7 +64,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🧭 The Grand Line Journey (Learning Path)
 
@@ -84,7 +84,7 @@ class StrawHatDeveloper:
     🚢 East Blue (Programming Basics) ✅ CONQUERED
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🎯 Current Bounty (GitHub Stats)
 
@@ -97,7 +97,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📜 Poneglyph of Achievements
 
@@ -115,7 +115,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🌊 Sea of Projects
 
@@ -130,7 +130,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📡 Den Den Mushi (Connect With Me)
 
@@ -145,7 +145,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🎵 Current Voyage Soundtrack
 
@@ -155,7 +155,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <div align="center">
 
@@ -165,7 +165,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <div align="center">
 
@@ -175,7 +175,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <div align="center">
 
@@ -198,7 +198,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <div align="center">
 
@@ -214,7 +214,7 @@ class StrawHatDeveloper:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <div align="center">
 
