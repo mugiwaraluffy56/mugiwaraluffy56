@@ -14,7 +14,6 @@
 - 🦞 **[clawdesk](https://github.com/mugiwaraluffy56/openclaw-mission-control)** - Personal openclaw mission control
 - 🖥️ **[wert](https://github.com/mugiwaraluffy56/wert)** - Terminal-native team collaboration (chat, tasks, tracking)
 - 🧑‍💻 **[nova](https://github.com/nova-editor)** - honestly most editors suck so i built a rust based editor 
-- 🔍 **[nolip](https://github.com/mugiwaraluffy56/nolip)** - Conversational visual search engine—search by talking, not typing
 - 🧠 **[vl-jepa](https://github.com/mugiwaraluffy56/vl-jepa)** - Self-supervised vision-language learning without reconstruction
 - 📜 **[License-Detection](https://github.com/mugiwaraluffy56/OJT)** - ML-powered license detection with BERT + TF-IDF (100+ SPDX)
 - 👁️ **[Vision-Language Infra Inspection](https://github.com/mugiwaraluffy56/vision-language-infrastructure-inspection)** - YOLOv8 + BLIP-2 system for automated infra inspection
@@ -35,6 +34,9 @@
 ### Forked Projects
 - 🧪 **[stella](https://github.com/mugiwaraluffy56/stella)** - Codex harness tweaks—fix token explosion, control context
 
+### Future Projects
+- 🔍 **[nolip](https://github.com/mugiwaraluffy56/nolip)** - Conversational visual search engine—search by talking, not typing
+- 🧠 **[manu]()** - An experiment in growing artificial general intelligence from scratch
 
 ## What I'm Doing
 
