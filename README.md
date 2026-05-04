@@ -1,6 +1,6 @@
 # Hi, I'm Puneeth Aditya
 
-**[puneethaditya.com](https://puneethaditya.vercel.app/)**
+**[puneethaditya.com](https://puneethaditya.vercel.app/)** 
 
 > Deep in vibe-coding mode.
 
@@ -60,3 +60,5 @@
 [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg)](https://twitter.com/puneethaditya)
 [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://instagram.com/puneeth__aditya_56)
 [![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg)](https://github.com/mugiwaraluffy56)
+
+**myakampuneeth@gmail.com**
