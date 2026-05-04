@@ -1,4 +1,3 @@
-# Hi, I'm Puneeth Aditya
 ![Logo](./logo.png)
 
 **[puneethaditya.com](https://puneethaditya.vercel.app/)** 
