@@ -21,15 +21,15 @@
 - 🧰 **[oss-skills](https://github.com/mugiwaraluffy56/oss-skills)** - Skills + workflows for OSS contributions (Claude/Codex agents)
 - ⚙️ **[rsh](https://github.com/aathoos/rsh)** - rust based shell from scratch
 - 📡 **[http-in-asm](https://github.com/mugiwaraluffy56/http-in-asm)** - HTTP server written in raw assembly
-- 💰 **[expense-tracker-rust-cli](https://github.com/mugiwaraluffy56/expense-tracker-rust-cli)** - Simple CLI for tracking expenses
+- 💰 **[ept](https://github.com/mugiwaraluffy56/expense-tracker-rust-cli)** - Simple CLI for tracking expenses
 - 📊 **[btc-predictor](https://github.com/mugiwaraluffy56/btc-predictor)** - Crypto price prediction experiments
-- 🧪 **[fastapi-app](https://github.com/mugiwaraluffy56/fastapi-app)** - Minimal backend experimentation with FastAPI
 - 🏦 **[go-bank](https://github.com/mugiwaraluffy56/go-bank)** - Banking backend in Go
-- 🔧 **[go-git](https://github.com/mugiwaraluffy56/go-git)** - Git workflows in Go
+- 🔧 **[go-git](https://github.com/mugiwaraluffy56/go-git)** - Git from scratch in Go
 - 🧠 **[MNIST-model](https://github.com/mugiwaraluffy56/MNIST-model)** - Classic deep learning baseline for digit classification
 - 🧩 **[pythonizejs](https://github.com/mugiwaraluffy56/pythonizejs)** - Python-style utilities for JavaScript developers
 - 🧱 **[binrs](https://github.com/mugiwaraluffy56/binrs)** - Binary inspection + encoding CLI tool
 - ⚡ **[aathu-lang](https://github.com/mugiwaraluffy56/aathu-lang)** - Minimal automation language for modern workflows
+- 🧪 **[fastapi-app](https://github.com/mugiwaraluffy56/fastapi-app)** - Minimal backend experimentation with FastAPI
 
 ### Forked Projects
 - 🧪 **[stella](https://github.com/mugiwaraluffy56/stella)** - Codex harness tweaks—fix token explosion, control context
@@ -42,6 +42,9 @@
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
 - **Rapid prototyping** - Full apps in days, not months
+
+## Open Source Contributions
+
 
 
 ## GitHub Activity
