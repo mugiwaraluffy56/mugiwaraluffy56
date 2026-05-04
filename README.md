@@ -56,7 +56,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@puneethaditya-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/puneethaditya)
-[![Blog](https://img.shields.io/badge/-puneethblog.vercel.app-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://puneethblog.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-puneethaditya-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneethaditya)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mugiwaraluffy56)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/puneethaditya)
+[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg)](https://twitter.com/puneethaditya)
+[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://instagram.com/puneeth__aditya_56)
+[![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg)](https://github.com/mugiwaraluffy56)
