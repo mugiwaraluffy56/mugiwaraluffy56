@@ -11,7 +11,7 @@
 
 - 🐲 **[mohu](https://github.com/mohu-org)** - A rust based numpy replacement for python
 - 🎥 **[vcex](https://github.com/mugiwaraluffy56/vcex)** - A rust native, elixir based video call app which is insanely ram efficient
-- 🦞 **[clawdesk](https://github.com/mugiwaraluffy56/openclaw-mission-control)** - Personal openclaw mission control
+- 🦞 **[clawdesk](https://github.com/mugiwaraluffy56/clawdesk)** - Personal openclaw mission control
 - 🖥️ **[wert](https://github.com/mugiwaraluffy56/wert)** - Terminal-native team collaboration (chat, tasks, tracking)
 - 🧑‍💻 **[nova](https://github.com/nova-editor)** - honestly most editors suck so i built a rust based editor 
 - 🧠 **[vl-jepa](https://github.com/mugiwaraluffy56/vl-jepa)** - Self-supervised vision-language learning without reconstruction
