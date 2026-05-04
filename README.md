@@ -8,7 +8,7 @@
 
 - 🐲 **[mohu](https://github.com/mohu-org)** - A rust based numpy replacement for python
 - 🎥 **[vcex](https://github.com/mugiwaraluffy56/vcex)** - A rust native, elixir based video call app which is insanely ram efficient
-- 🦞 **[clawdesk](https://github.com/mugiwaraluffy56/openclaw-mission-control)** - the AI that actually does things
+- 🦞 **[clawdesk](https://github.com/mugiwaraluffy56/openclaw-mission-control)** - Personal openclaw mission control
 - 🔍 **[nolip](https://github.com/mugiwaraluffy56/nolip)** - Conversational visual search engine—search by talking, not typing
 - 🧠 **[vl-jepa](https://github.com/mugiwaraluffy56/vl-jepa)** - Self-supervised vision-language learning without reconstruction
 - 📜 **[License-Detection](https://github.com/mugiwaraluffy56/OJT)** - ML-powered license detection with BERT + TF-IDF (100+ SPDX)
