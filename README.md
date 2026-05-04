@@ -2,7 +2,7 @@
 
 **[puneethaditya.com](https://puneethaditya.vercel.app/)**
 
-> Deep in vibe-coding mode, building AI-powered developer tools at ludicrous speed.
+> Deep in vibe-coding mode.
 
 ## Current Projects
 
@@ -13,9 +13,7 @@
 ## What I'm Doing
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
 - **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
 
 ## GitHub Activity
 
