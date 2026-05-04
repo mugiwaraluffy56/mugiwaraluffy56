@@ -34,10 +34,10 @@
 - 🧪 **[fastapi-app](https://github.com/mugiwaraluffy56/fastapi-app)** - Minimal backend experimentation with FastAPI
 
 ### Forked Projects
-- 🧪 **[stella](https://github.com/mugiwaraluffy56/stella)** - Codex harness tweaks—fix token explosion, control context
+- 🧪 **[stella](https://github.com/mugiwaraluffy56/stella)** - Codex harness tweaks fix token explosion, control context
 
 ### Future Projects
-- 🔍 **[nolip](https://github.com/mugiwaraluffy56/nolip)** - Conversational visual search engine—search by talking, not typing
+- 🔍 **[nolip](https://github.com/mugiwaraluffy56/nolip)** - Conversational visual search engine
 - 🧠 **[manu]()** - An experiment in growing artificial general intelligence from scratch
 
 ## What I'm Doing
