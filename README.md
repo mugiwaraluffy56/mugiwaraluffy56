@@ -7,7 +7,7 @@
 
 ## Projects
 
-### Personal Projects
+#### Personal Projects
 
 - 🐲 **[mohu](https://github.com/mohu-org)** - A rust based numpy replacement for python
 - 🎥 **[vcex](https://github.com/mugiwaraluffy56/vcex)** - A rust native, elixir based video call app which is insanely ram efficient
@@ -33,10 +33,10 @@
 - 🧱 **[binrs](https://github.com/mugiwaraluffy56/binrs)** - Binary inspection + encoding CLI tool
 - 🧪 **[fastapi-app](https://github.com/mugiwaraluffy56/fastapi-app)** - Minimal backend experimentation with FastAPI
 
-### Forked Projects
+#### Forked Projects
 - 🧪 **[stella](https://github.com/mugiwaraluffy56/stella)** - Codex harness tweaks fix token explosion, control context
 
-### Future Projects
+#### Future Projects
 - 🔍 **[nolip](https://github.com/mugiwaraluffy56/nolip)** - Conversational visual search engine
 - 🧠 **[manu]()** - An experiment in growing artificial general intelligence from scratch
 
