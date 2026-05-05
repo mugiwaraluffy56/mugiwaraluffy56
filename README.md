@@ -70,6 +70,7 @@
 ## Connect
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/puneethaditya)
+[![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/discord.svg)](https://discord.com/channels/mugiwaraluffy.56)
 [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg)](https://twitter.com/puneethaditya)
 [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://instagram.com/puneeth__aditya_56)
 [![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg)](https://github.com/mugiwaraluffy56)
