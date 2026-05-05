@@ -40,6 +40,12 @@
 - 🔍 **[nolip](https://github.com/mugiwaraluffy56/nolip)** - Conversational visual search engine
 - 🧠 **[manu]()** - An experiment in growing artificial general intelligence from scratch
 
+## Orgs I Maintain
+
+- 🐲 **[mohu-org](https://github.com/mohu-org)** - Numerical computing ecosystem in Rust  
+- 🧠 **[nova-editor](https://github.com/nova-editor)** - Rust-based editor ecosystem  
+- 🧰 **[aathoos](https://github.com/aathoos)** - Productivity + student OS tooling ecosystem  
+
 ## What I'm Doing
 
 - **Building klyna** - making APIs observable, debuggable, and self-healing  
