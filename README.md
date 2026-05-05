@@ -2,7 +2,7 @@
 
 **[puneethaditya.com](https://puneethaditya.vercel.app/)** 
 
-> Deep in vibe-coding mode.
+> Deep in learning mode.
 
 
 ## Projects
@@ -42,8 +42,8 @@
 
 ## What I'm Doing
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Rapid prototyping** - Full apps in days, not months
+- **Building klyna** - Building an amazing API reliability engine
+- **Learning new stuff** - exploring new langauges and technologies
 
 ## Open Source Contributions
 
