@@ -42,17 +42,24 @@
 
 ## What I'm Doing
 
-- **Building klyna** - Building an amazing API reliability engine
-- **Learning new stuff** - exploring new langauges and technologies
+- **Building klyna** - making APIs observable, debuggable, and self-healing  
+- **Cloud-native systems** - working with Kubernetes, service meshes, and distributed infra  
+- **Systems-first engineering** - compilers, eBPF, and performance internals  
+- **Rust everywhere** - building lean infra tools and replacing bloated systems  
+- **ML + infra** - turning vision-language and self-supervised ideas into real systems  
 
 ## Open Source Contributions
 
-
+- 🚀 **[mofa](https://github.com/mofa-org/mofa)** - Agent runtime + gateway system (auth, routing, RAG, memory, rate limiting, infra primitives) ([PRs](https://github.com/mofa-org/mofa/pulls/mugiwaraluffy56))  
+- ⚙️ **[LLVM](https://github.com/llvm/llvm-project)** - Compiler fixes across Clang/MLIR/LDB + backend crash fixes ([PRs](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Amugiwaraluffy56+is%3Aclosed))  
+- 🔍 **[inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget)** - Kubernetes networking fixes + Docker build improvements ([PRs](https://github.com/inspektor-gadget/inspektor-gadget/pulls/mugiwaraluffy56))  
+- 🧪 **[microcks](https://github.com/microcks/microcks-cli)** - CLI fixes, error handling improvements, and Go code cleanup ([PRs](https://github.com/microcks/microcks-cli/pulls/mugiwaraluffy56))  
+- 🌐 **[kuadrant](https://github.com/kuadrant/mcp-gateway)** - MCP gateway extensions, tracing, OAuth config, and policy tooling ([PRs](https://github.com/Kuadrant/mcp-gateway/pulls/mugiwaraluffy56))  
+- 🔥 **[litmuschaos](https://github.com/litmuschaos/litmus)** - Chaos engineering fixes for reliability and experiment execution safety ([PRs](https://github.com/litmuschaos/litmus/pulls/mugiwaraluffy56))  
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/mugiwaraluffy56)
-
 
 ## Connect
 
