@@ -12,10 +12,10 @@
 - 🐲 **[mohu](https://github.com/mohu-org)** - A rust based numpy replacement for python
 - 🎥 **[vcex](https://github.com/mugiwaraluffy56/vcex)** - A rust native, elixir based video call app which is insanely ram efficient
 - 🦞 **[clawdesk](https://github.com/mugiwaraluffy56/clawdesk)** - Personal openclaw mission control
-- 🖥️ **[wert](https://github.com/mugiwaraluffy56/wert)** - Terminal-native team collaboration (chat, tasks, tracking)
+- 🖥️ **[wert](https://github.com/mugiwaraluffy56/wert)** - Terminal native team collaboration (chat, tasks, tracking)
 - 🧑‍💻 **[nova](https://github.com/nova-editor)** - honestly most editors suck so i built a rust based editor 
-- 🧠 **[vl-jepa](https://github.com/mugiwaraluffy56/vl-jepa)** - Self-supervised vision-language learning without reconstruction
-- 📜 **[License-Detection](https://github.com/mugiwaraluffy56/OJT)** - ML-powered license detection with BERT + TF-IDF (100+ SPDX)
+- 🧠 **[vl-jepa](https://github.com/mugiwaraluffy56/vl-jepa)** - Self supervised vision language learning without reconstruction
+- 📜 **[License-Detection](https://github.com/mugiwaraluffy56/OJT)** - ML powered license detection with BERT + TF-IDF (100+ SPDX)
 - 👁️ **[Vision-Language Infra Inspection](https://github.com/mugiwaraluffy56/vision-language-infrastructure-inspection)** - YOLOv8 + BLIP-2 system for automated infra inspection
 - 🧬 **[gitdaemon](https://github.com/mugiwaraluffy56/gitdaemon)** - Background Git sync engine with intelligent auto-commits
 - 🧰 **[oss-skills](https://github.com/mugiwaraluffy56/oss-skills)** - Skills + workflows for OSS contributions (Claude/Codex agents)
@@ -29,7 +29,7 @@
 - 🏦 **[go-bank](https://github.com/mugiwaraluffy56/go-bank)** - Banking backend in Go
 - 🔧 **[go-git](https://github.com/mugiwaraluffy56/go-git)** - Git from scratch in Go
 - 🧠 **[MNIST-model](https://github.com/mugiwaraluffy56/MNIST-model)** - Classic deep learning baseline for digit classification
-- 🧩 **[pythonizejs](https://github.com/mugiwaraluffy56/pythonizejs)** - Python-style utilities for JavaScript developers
+- 🧩 **[pythonizejs](https://github.com/mugiwaraluffy56/pythonizejs)** - Python style utilities for JavaScript developers
 - 🧱 **[binrs](https://github.com/mugiwaraluffy56/binrs)** - Binary inspection + encoding CLI tool
 - 🧪 **[fastapi-app](https://github.com/mugiwaraluffy56/fastapi-app)** - Minimal backend experimentation with FastAPI
 
@@ -43,16 +43,16 @@
 ## Orgs I Maintain
 
 - 🐲 **[mohu-org](https://github.com/mohu-org)** - Numerical computing ecosystem in Rust  
-- 🧠 **[nova-editor](https://github.com/nova-editor)** - Rust-based editor ecosystem  
+- 🧠 **[nova-editor](https://github.com/nova-editor)** - Rust based editor ecosystem  
 - 🧰 **[aathoos](https://github.com/aathoos)** - Productivity + student OS tooling ecosystem  
 
 ## What I'm Doing
 
-- **Building klyna** - making APIs observable, debuggable, and self-healing  
+- **Building [klyna](https://klyna-io.vercel.app/)** - making APIs observable, debuggable, and self healing  
 - **Cloud-native systems** - working with Kubernetes, service meshes, and distributed infra  
 - **Systems-first engineering** - compilers, eBPF, and performance internals  
 - **Rust everywhere** - building lean infra tools and replacing bloated systems  
-- **ML + infra** - turning vision-language and self-supervised ideas into real systems  
+- **ML + infra** - turning vision language and self supervised ideas into real systems  
 
 ## Open Source Contributions
 
