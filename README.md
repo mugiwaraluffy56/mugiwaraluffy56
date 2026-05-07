@@ -16,6 +16,7 @@
 - 🧑‍💻 **[nova](https://github.com/nova-editor)** - honestly most editors suck so i built a rust based editor 
 - 🧠 **[vl-jepa](https://github.com/mugiwaraluffy56/vl-jepa)** - Self supervised vision language learning without reconstruction
 - 📜 **[License-Detection](https://github.com/mugiwaraluffy56/OJT)** - ML powered license detection with BERT + TF-IDF (100+ SPDX)
+- ⚙️ **[maeve](https://github.com/mugiwaraluffy56/maeve)** - Context management CLI for coding agents
 - 👁️ **[Vision-Language Infra Inspection](https://github.com/mugiwaraluffy56/vision-language-infrastructure-inspection)** - YOLOv8 + BLIP-2 system for automated infra inspection
 - 🧬 **[gitdaemon](https://github.com/mugiwaraluffy56/gitdaemon)** - Background Git sync engine with intelligent auto-commits
 - 🧰 **[oss-skills](https://github.com/mugiwaraluffy56/oss-skills)** - Skills + workflows for OSS contributions (Claude/Codex agents)
