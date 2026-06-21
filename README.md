@@ -68,6 +68,11 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/mugiwaraluffy56)
 
+## Boot.dev
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/e34b41fa-10a9-4b0a-b2b7-dd94f81419cc/thumbnail" >
+</p>
+
 ## Connect
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/puneethaditya)
